@@ -1,0 +1,19 @@
+.class-one, .cooler-class, .class-two{
+    background-color: #eba8cd;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#id-one{
+    color: blue;
+    font-size: 38px;
+}
+
+.cooler-class{
+    font-size: 24px;
+}
+
+#another-id{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
